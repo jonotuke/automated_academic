@@ -1,0 +1,16 @@
+name: "automated_academic"
+title: "The Automated Academic"
+description: |
+  The Automated Academic is all about making academic less busy. 
+  You still will be doing the usual 50% teaching, 50% research, 50% mindless admin, 
+  but at least some of it will be automated. 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+output: distill::distill_article

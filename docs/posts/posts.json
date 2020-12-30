@@ -1,0 +1,39 @@
+[
+  {
+    "path": "posts/2020-12-30-creating-a-website-the-distill-way/",
+    "title": "Creating a website - the distill way",
+    "description": "Short summary of how to create a blog website using Distil",
+    "author": [
+      {
+        "name": "Jono Tuke",
+        "url": "https://github.com/jonotuke"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [
+      "Distil",
+      "Creating stuff"
+    ],
+    "contents": "\nDistil is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n\n\n\n",
+    "preview": "posts/2020-12-30-creating-a-website-the-distill-way/../../figs/test.png",
+    "last_modified": "2020-12-30T16:03:37+10:30",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-12-30-test/",
+    "title": "Test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Jono Tuke",
+        "url": "https://github.com/jonotuke"
+      }
+    ],
+    "date": "2020-12-30",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-30T15:54:56+10:30",
+    "input_file": {}
+  }
+]
